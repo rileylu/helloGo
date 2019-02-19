@@ -1,4 +1,4 @@
-package helloGo
+package main
 
 import "fmt"
 
